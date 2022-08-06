@@ -1,13 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
-namespace SwitchEmpWage
-
+namespace WageMonth
 {
     class Program
     {
-        public static void Main()
+        public static void Main(string[] args)
         {
-            EmpWage.EmployeeWage();
+            TwentyDaysWage.EmployeeWage();
         }
     }
 }
