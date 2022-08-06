@@ -1,10 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
-namespace EmpDayWage
+namespace EmployeeWage
 {
-    class program
+    class Program
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
             EmployeePresentAbsent.EmployeePresentAndAbsent();
         }
